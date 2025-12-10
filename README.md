@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Nour BouAfoura
+👋 Hello, I'm Nour BouAfoura
 
 ### 🎓 Final-Year Software Engineering Student | Full-Stack & DevOps Enthusiast
 Passionate about building intelligent web applications, distributed systems, and robust CI/CD pipelines. Currently seeking a **Final Year Project Internship (PFE)** to contribute to innovative projects and solidify my engineering skills.
@@ -81,7 +81,7 @@ Real-time patient flow and ambulance tracking web application integrating multip
 
 I'm always open to discussing technology, collaboration opportunities, or your next project idea.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ton-profil-linkedin) <!-- Remplace par ton vrai lien -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/nour-bouafoura/)) <!-- Remplace par ton vrai lien -->
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nourboua20@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nourbouafoura)
 
