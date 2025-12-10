@@ -58,13 +58,6 @@ Real-time patient flow and ambulance tracking web application integrating multip
 
 > *Explore all my projects on my [**GitHub Profile**](https://github.com/Nourbouafoura)*
 
----
-
-## 📈 GitHub Stats
-
-![Nour's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nourbouafoura&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nourbouafoura&layout=compact&theme=radical&hide_border=true)
 
 ---
 
@@ -79,7 +72,7 @@ Real-time patient flow and ambulance tracking web application integrating multip
 
 ## 🌍 Let's Connect!
 
-I'm always open to discussing technology, collaboration opportunities, or your next project idea.
+I'm always open to discussing technology, collaboration opportunities ..
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nour-bouafoura/) <!-- Remplace par ton vrai lien -->
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nourboua20@gmail.com)
