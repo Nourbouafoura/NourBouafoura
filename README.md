@@ -49,7 +49,7 @@ An immersive web platform enabling artists to showcase, sell artworks, and host 
 ### **Green Village – Eco-Friendly Community App (Laravel)**
 A Laravel application for urban greening and citizen project management, featuring real-time notifications (Socket.IO) and a CI/CD pipeline.
 *   **Tech:** Laravel, PHP, Socket.IO, Twilio, GitHub Actions
-*   [**🔗 View Repository**](https://github.com/Nourbouafoura/GreenVillage)
+*   [**🔗 View Repository**](https://github.com/Nourbouafoura/Leaf-Village)
 
 ### **RescueOn – Emergency Management System (MERN + AI)**
 Real-time patient flow and ambulance tracking web application integrating multiple AI models for classification and medical recommendation.
