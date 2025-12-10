@@ -81,7 +81,7 @@ Real-time patient flow and ambulance tracking web application integrating multip
 
 I'm always open to discussing technology, collaboration opportunities, or your next project idea.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/nour-bouafoura/)]) <!-- Remplace par ton vrai lien -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nour-bouafoura/) <!-- Remplace par ton vrai lien -->
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nourboua20@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nourbouafoura)
 
